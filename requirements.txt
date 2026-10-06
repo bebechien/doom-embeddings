@@ -1,0 +1,7 @@
+transformers
+sentence-transformers
+tree-sitter
+tree-sitter-c
+umap-learn
+pillow
+torchvision
